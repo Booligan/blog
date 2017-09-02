@@ -1,0 +1,21 @@
+# Site settings
+title: Alberto Learns to Code
+header-img: img/home-bg.png
+email: amayanga90@yahoo.com
+copyright_name: Booligan
+description: > # this means to ignore newlines until "baseurl:"
+  A web developer in the making
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Booligan
+learn_profile: Booligan
+email_username: amayanga90@yahoo.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

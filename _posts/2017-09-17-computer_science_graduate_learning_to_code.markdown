@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Computer Science graduate learning to code'"
+title:  "Computer Science graduate learning to code"
 date:   2017-09-17 02:17:18 -0400
 ---
 

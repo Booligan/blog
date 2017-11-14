@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Candy Bag — Sinatra Project"
-date:       2017-11-14 16:38:08 +0000
+date:       2017-11-14 11:38:09 -0500
 permalink:  candy_bag_sinatra_project
 ---
 

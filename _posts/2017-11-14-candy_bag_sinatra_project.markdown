@@ -21,6 +21,6 @@ The biggest thing that helped me was adding styling to the pages. With the previ
  
  *User Logging In*
 
-With the styling and dummy links in place, I slowly worked to getting each one to work. After about 2 fulls days of work, I was done. I also deployed it on Heroku! Feel free to take a look at: [](https://candybag.herokuapp.com/)
+With the styling and dummy links in place, I slowly worked to getting each one to work. After about 2 fulls days of work, I was done. I also deployed it on Heroku! Feel free to take a look at: https://candybag.herokuapp.com/
 
 Now onto Rails! :)

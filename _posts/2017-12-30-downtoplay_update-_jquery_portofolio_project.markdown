@@ -16,8 +16,9 @@ The updates in my project consist of 3 parts:
 
 3. When viewing a planned game. Users now have a “Next” button to cycle through all of their planned games.
 
-![](https://cdn-images-1.medium.com/max/800/1*LPDFCH0dew7nC7igf4BoLA.pnghttp://)
-Form and Table rendered after clicking “Planned Games.
+![](https://cdn-images-1.medium.com/max/800/1*LPDFCH0dew7nC7igf4BoLA.png)
+
+                           *Form and Table rendered after clicking “Planned Games.*
 
 All AJAX calls create a Game JS object whose attributes are then appended to the DOM.
 

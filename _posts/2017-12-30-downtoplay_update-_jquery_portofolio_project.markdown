@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "DownToPlay Update- JQuery Portofolio Project"
-date:       2017-12-30 23:36:05 +0000
+date:       2017-12-30 18:36:06 -0500
 permalink:  downtoplay_update-_jquery_portofolio_project
 ---
 
@@ -16,7 +16,8 @@ The updates in my project consist of 3 parts:
 
 3. When viewing a planned game. Users now have a “Next” button to cycle through all of their planned games.
 
-![Form and Table rendered after clicking “Planned Games](https://cdn-images-1.medium.com/max/800/1*LPDFCH0dew7nC7igf4BoLA.pnghttp://)
+![](https://cdn-images-1.medium.com/max/800/1*LPDFCH0dew7nC7igf4BoLA.pnghttp://)
+Form and Table rendered after clicking “Planned Games.
 
 All AJAX calls create a Game JS object whose attributes are then appended to the DOM.
 
